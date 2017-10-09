@@ -1,5 +1,6 @@
 # Clustering
 
+![](https://github.com/iurigo/Clustering/blob/master/image.png)
 Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters). However, different researchers employ different cluster models, and for each of these cluster models again different algorithms can be given. The notion of a cluster, as found by different algorithms, varies significantly in its properties. Understanding these "cluster models" is key to understanding the differences between the various algorithms. Typical cluster models include:
 
 - Connectivity models: for example, hierarchical clustering builds models based on distance connectivity.
